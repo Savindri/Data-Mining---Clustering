@@ -33,7 +33,7 @@ We aim to segment the Customers based on RFM so that the company can target its 
 ✓ The dataset was analysed the and pre-processed to optimize the accuracy, and 
 implemented the model using <b>Python</b>.
 
-✓ User Interfaces (UIs) has created using <b>Streamlet</b>. It is an open-source Python library 
+✓ User Interfaces (UIs) has created using <b>Streamlit</b>. It is an open-source Python library 
 that allows to create and share, custom web apps.
 https://docs.streamlit.io/en/stable/tutorial/create_a_data_explorer_app.html
 
